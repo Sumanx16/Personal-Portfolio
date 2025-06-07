@@ -13,15 +13,25 @@ Welcome to my personal portfolio! I’m **Suman Kumar**, a beginner full-stack d
 
 ## 📸 Screenshots
 
-- **Hero Section:** Gradient background with animated typewriter effect and intro text.
-- **Projects Section:** Interactive cards showcasing my key projects with live links.
-- **Contact Section:** Simple contact form and social media links.
+![home](https://github.com/user-attachments/assets/cb741789-f5b6-4bae-af62-f7e953f4cdc1)
+
+![educations](https://github.com/user-attachments/assets/5ba7fc3a-5ecb-4362-b480-2ac4152c8722)
+
+![projects](https://github.com/user-attachments/assets/6c9c40a0-9705-4348-8d24-e43c10dfa8b4)
+
+![skills](https://github.com/user-attachments/assets/3d61ad54-79cc-48bd-813d-246d57c2799b)
+
+![experience](https://github.com/user-attachments/assets/5934c51c-c5d2-4f6d-8b1a-3c8aab78d557)
+
+![about](https://github.com/user-attachments/assets/3602070d-4124-44f5-bdc1-c95267d5f512)
+
+![contactme](https://github.com/user-attachments/assets/eac0072d-2c13-433b-8be7-06352de92316)
 
 ---
 
 ## ✨ Features
 
-- 🎨 **Modern Design** – Clean, minimal layout inspired by [portfolio-by-ashik.netlify.app](https://portfolio-by-ashik.netlify.app)
+- 🎨 **Modern Design** – Clean, minimal layout
 - 📱 **Responsive Layout** – Works smoothly on mobile, tablet, and desktop
 - 🔄 **Smooth Animations** – Hover/fade effects, animated navbar, typewriter text
 - 🧭 **Interactive Navigation** – Sticky header and mobile hamburger menu
