@@ -107,7 +107,7 @@ npm install gh-pages --save-dev
 ```bash
 npm run deploy
 ```
-🔗 Your portfolio will be live at: https://sumanx16.github.io/suman-portfolio
+🔗 portfolio will be live at: https://sumanx16.github.io/suman-portfolio
 
 ## 📞 Contact Me
 
