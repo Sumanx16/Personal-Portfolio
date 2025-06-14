@@ -7,7 +7,7 @@ Welcome to my personal portfolio! I’m **Suman Kumar**, a beginner full-stack d
 ## 🌐 Live Demo & Repository
 
 - 🔴 **Live Website:** [https://sumanx16.github.io/suman-portfolio](https://gorgeous-gingersnap-565e00.netlify.app/)
-- 📂 **GitHub Repo:** [https://github.com/Sumanx16/suman-portfolio](https://github.com/Sumanx16/suman-portfolio)
+- 📂 **GitHub Repo:** [https://github.com/Sumanx16/suman-portfolio](https://github.com/Sumanx16/Personal-Portfolio)
 
 ---
 
@@ -107,7 +107,7 @@ npm install gh-pages --save-dev
 ```bash
 npm run deploy
 ```
-🔗 portfolio will be live at: https://sumanx16.github.io/suman-portfolio
+🔗 portfolio will be live at: [https://sumanx16.github.io/suman-portfolio](https://gorgeous-gingersnap-565e00.netlify.app/)
 
 ## 📞 Contact Me
 
